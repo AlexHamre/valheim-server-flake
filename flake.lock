@@ -29,11 +29,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1714795926,
-        "narHash": "sha256-PkgC9jqoN6cJ8XYzTA2PlrWs7aPJkM3BGiTxNqax0cA=",
+        "lastModified": 1738493865,
+        "narHash": "sha256-4VH+5ZQVHPDSYrcJmSgbhK1HAPa8uV+h8ZKfhWRtmnM=",
         "owner": "AlexHamre",
         "repo": "steam-fetcher",
-        "rev": "12f66eafb7862d91b3e30c14035f96a21941bd9c",
+        "rev": "d6e59f51e4fcd15a496c19615756b9fd03a5eba2",
         "type": "github"
       },
       "original": {
